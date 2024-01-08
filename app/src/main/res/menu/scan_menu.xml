@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="ExtraText"
+    android:theme="@style/AppTheme">
+
+
+    <item
+        android:id="@+id/modifier_nom"
+        android:icon="@drawable/edit_logo"
+        android:title="@string/menu_modifier_nom"
+        />
+
+    <item
+        android:id="@+id/send_annimation"
+        android:icon="@drawable/led_off"
+        android:title="@string/menu_send_animation"
+         />
+
+    <!--
+    <item
+        android:id="@+id/wifi"
+        android:icon="@drawable/wifi_full"
+        android:title="@string/menu_wifi"
+         />
+         -->
+
+</menu>

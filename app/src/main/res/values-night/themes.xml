@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ProjetBle" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/blue_app</item> -->
+    </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Autres attributs de style ici -->
+        <item name="android:textColor">@color/blue_app</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:colorBackground">@color/black_app_light</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ValentinsLesBG</string>
+    <string name="Bouton_commande_internet">Commander via Internet</string>
+    <string name="Bouton_Scanner_périphériques">Scanner les périphériques</string>
+    <string name="Bienvenue">Bonjour \n et Bienvenue \n sur notre application !</string>
+    <string name="Toggle_led">Changer l\'état de la LED</string>
+    <string name="lancer_scan">LANCER LE SCAN</string>
+    <string name="déconnexion">DÉCONNEXION</string>
+    <string name="Connecte_a">Connecté à </string>
+    <string name="not_compatible">Non compatible</string>
+    <string name="scan_ended">Scan fini</string>
+    <string name="uuid_not_found"> Uuid n\'est pas trouvé</string>
+    <string name="not_connected">Non connecté</string>
+    <string name="enable_ble_notifications">Les notifications BLE sont activées</string>
+    <string name="activer_la_localisation">Veuillez activer la localisation.</string>
+    <string name="bluetooh_not_connected">Bluetooth non activé</string>
+    <string name="led_count">Compteur de changement d\'état de la led : </string>
+    <string name="permission_refusee">Vous devez accepter la localisation pour accèder à cette page</string>
+    <string name="Changer_nom_peripherique">Changer le nom du périphérique : </string>
+    <string name="OK">OK</string>
+    <string name="Cancel">Annuler</string>
+    <string name="Accepter">Accepter</string>
+    <string name="Refuser">Refuser</string>
+    <string name="Message">Message</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_modifier_nom">Modifier le nom</string>
+    <string name="menu_send_animation">Envoyer une animation</string>
+    <string name="dialog_send_animation">Envoyer une animation avec des 0 ou des 1</string>
+    <string name="menu_wifi">Wifi</string>
+    <string name="SOS_patern">101001110011111010011</string>
+    <string name="epilepsy_patern">1010101010101010101010101</string>
+    <string name="SOS">SOS</string>
+    <string name="epilepsy">épileptique</string>
+    <string name="Nothing">Aucun</string>
+</resources>
